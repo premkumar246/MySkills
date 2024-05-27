@@ -1,4 +1,12 @@
 # MySkills
 - **Operating Systems:** Windows, Linux 
 - **Programming Languages:** Python 
-- **Database:** MySQL, PostgreSQL 
+- **Database:** MySQL, PostgreSQL
+- **Data Analysis:** Numpy, Pandas
+- **Data Analysis Tools:** Excel, Tableau
+- **Data Visualization:** MatplotLib, Seaborn
+- **Natural Language Processing:** NLTK, Spacy
+- **Computer Vision:** OpenCV
+- **Machine Learning:** TensorFlow, Keras, Pytorch, Fastai
+- **GenAI:** OpenAI, LangChain, Llama Index. 
+- **Cloud computing:** AWS 
