@@ -1,4 +1,4 @@
 # MySkills
-**Operating Systems:** Windows, Linux \n
-**Programming Languages:** Python \n
-**Database:** MySQL, PostgreSQL \n
+- **Operating Systems:** Windows, Linux 
+- **Programming Languages:** Python 
+- **Database:** MySQL, PostgreSQL 
