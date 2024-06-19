@@ -1,10 +1,13 @@
 # MySkills
-- **Operating Systems:** Windows, Linux 
+- **Operating Systems:**
+  - Operating System : [Codehelp](https://www.youtube.com/watch?v=3obEP8eLsCw)|[Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+  - Windows : 
+  - Linux : https://www.youtube.com/watch?v=bz0ZCUv5rYo&t=2669s
 - **Programming Languages:** Python 
 - **Database:** MySQL, PostgreSQL
 - **Data Analysis:** Numpy, Pandas
 - **Data Analysis Tools:** Excel, Tableau
-- **Data Visualization:** MatplotLib, Seaborn
+- **Data Visualization:** MatplotLib, Seaborn, Plotly 
 - **Natural Language Processing:** NLTK, Spacy
 - **Computer Vision:** OpenCV
 - **Machine Learning:** TensorFlow, Keras, Pytorch, Fastai
