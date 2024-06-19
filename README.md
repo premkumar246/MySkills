@@ -1,10 +1,10 @@
 # MySkills
 - **Operating Systems:**
-  - Operating System : [Codehelp](https://www.youtube.com/watch?v=3obEP8eLsCw)|[Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+  - Operating System : [Codehelp](https://www.youtube.com/watch?v=3obEP8eLsCw) | [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) 
   - Windows : 
-  - Linux : https://www.youtube.com/watch?v=bz0ZCUv5rYo&t=2669s
+  - Linux : [Edureka](https://www.youtube.com/watch?v=bz0ZCUv5rYo&t=2669s) | [Network Kings](https://www.youtube.com/watch?v=gqhQ8XTlzX4)
 - **Programming Languages:** Python 
-- **Database:** MySQL, PostgreSQL
+- **Database:** MySQL, PostgreSQL 
 - **Data Analysis:** Numpy, Pandas
 - **Data Analysis Tools:** Excel, Tableau
 - **Data Visualization:** MatplotLib, Seaborn, Plotly 
