@@ -3,7 +3,8 @@
   - Operating System : [Codehelp](https://www.youtube.com/watch?v=3obEP8eLsCw) | [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) 
   - Windows : 
   - Linux : [Edureka](https://www.youtube.com/watch?v=bz0ZCUv5rYo&t=2669s) | [Network Kings](https://www.youtube.com/watch?v=gqhQ8XTlzX4)
-- **Programming Languages:** Python 
+- **Programming Languages:**
+  - Python 
 - **Database:**
   - MySQL
   - PostgreSQL
