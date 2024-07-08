@@ -5,5 +5,6 @@
 #### Goal: 
 - Crack a Product Based Company with a high salary
 ---
-**Date:** Friday, 27th June 2024 
+**Date:** Friday, 7th July 2024
+- I have completed an End-End Deep Learning Project using MLops. 
 
